@@ -1,0 +1,1 @@
+This is my first project. I will develop foundational HTML skills by creating a basic recipe website. I will also learn to use a very important tool -- git. I will follow good practices such as atomic commits and using well-established conventions when creating commit messages to become a better developer.
